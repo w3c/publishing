@@ -64,7 +64,8 @@ var W3CFeedContentMain = function(title, link, pubDate, descr) {
 	var s = '<div class="main-news">';
 	s += '<h3 class="h5 tPadding0 bPadding0 summary">' + title + '</h3>';
 	s += '<p class="date"><time class="dtstart published">' + pubDate.getFullYear() + '-' + (pubDate.getMonth()+1) + '-' + pubDate.getDate() + '</time><br/>'
-	s += descr + "</p>";
+	s += descr + "<br/>";
+	s += '<a href="' + link + '">Continue reading →</a></p>';
 	s += "</div>";
 	return(s);
 }
@@ -88,7 +89,7 @@ $(document).ready( function() {
 
 	$("#mainRss").atomfeed({
 		// url: "https://www.w3.org/blog/category/digital-publishing/feed/",
-		url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/",
+		url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/category/digital-publishing/feed/",
 		printEntry : W3CFeedContentMain,
 		maxCount : 3,
 		showDescr: true,
