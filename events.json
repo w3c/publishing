@@ -1,0 +1,584 @@
+{
+	"events" : [
+		{
+			"event"		: "DPUB IG F2F Meeting at the W3C TPAC Meeting",
+			"place"		: "Burlingame, CA, USA",
+			"dateStart"	: "2017-11-06",
+			"dateEnd"	: "2017-11-07",
+			"href"		: "http://www.PubTechConnect.com"
+		},
+		{
+			"event"		: "DPUB IG F2F Meeting",
+			"place"		: "New York, NY, USA",
+			"dateStart"	: "2017-06-22",
+			"dateEnd"	: "2017-06-23"
+		},
+		{
+			"event"		: "PubTechConnect: Where Publishing and Technology Intersect",
+			"place"		: "New York, USA",
+			"dateStart"	: "2017-04-20",
+			"href"		: "http://www.PubTechConnect.com"
+		},
+		{
+			"event"		: "Digital Publishing BG F2F",
+			"place"		: "London, United Kingdom",
+			"dateStart"	: "2017-03-13",
+			"href"		: "https://www.w3.org/wiki/PublishingBG/meeting/2017-03-13#March_13.2C_2017_Kick-Off_Meeting"
+		},
+		{
+			"event"     : "EPUB Summit 2017",
+			"place"     : "Brussels, Belgium",
+			"dateStart" : "2017-03-09",
+			"dateEnd"   : "2017-03-10",
+			"href"		: "https://edrlab.org/epub-summit-2017-program/"
+		},
+		{
+			"event"     : "Digital Book World (DBW)",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2017-01-18",
+			"dateEnd"   : "2017-01-19"
+		},
+		{
+			"event"     : "Semantic Web in Libraries (SWIB16)",
+			"place"	    : "Bonn, Germany",
+			"dateStart" : "2016-11-28",
+			"dateEnd"   : "2016-11-30"
+		},
+
+		{
+			"event"     : "China National Computer Congress (CNCC2016)",
+			"place"	    : "Taiyuan, China",
+			"dateStart" : "2016-10-20",
+			"dateEnd"   : "2016-10-22"
+		},
+		{
+			"event"     : "I Annotate 16",
+			"place"     : "Berlin, Germany",
+			"dateStart" : "2016-05-19",
+			"dateEnd"   : "2016-05-20"
+		},
+
+		{
+			"event"     : "IDPF DigiCon@BEA 2016",
+			"place"     : "Chicago, IL, USA",
+			"dateStart" : "2016-05-10",
+			"dateEnd"   : "2016-05-11"
+		},
+
+		{
+			"event"     : "W3C Track, WWW2016 Conference",
+			"place"     : "Montréal, Canada",
+			"dateStart" : "2016-04-13",
+			"dateEnd"   : "2016-04-14",
+			"href"      : "https://www.w3.org/2016/04/w3c-track.html"
+		},
+
+		{
+			"event"     : "EPUB Summit",
+			"place"     : "Bordeaux, France",
+			"dateStart" : "2016-04-07",
+			"dateEnd"   : "2016-04-08",
+			"href"      : "http://edrlab.org/edrlab/index.php/epub-summit/"
+		},
+
+		{
+			"event"     : "ebookcraft 2016",
+			"place"     : "Toronto, Canada",
+			"dateStart" : "2016-03-30",
+			"dateEnd"   : "2016-03-31",
+			"href"      : "http://techforum.booknetcanada.ca/events/tech-forum-2016/custom-18-b26e185c19fe4e919f04e6e5cde72c4f.aspx"
+		},
+
+		{
+			"event"     : "Digital Book World",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2016-03-07",
+			"dateEnd"   : "2016-03-09",
+			"href"      : "http://digitalbookworldconference.com/"
+		},
+
+		{
+			"event"     : "markup forum 2015",
+			"place"     : "Stuttgart, Germany",
+			"dateStart" : "2015-11-20",
+			"href"      : "http://www.markupforum.de/das-programm2015.html"
+		},
+
+		{
+			"event"     : "Día del W3C en España 2015: el futuro de la edición digital",
+			"place"     : "Madrid, Spain",
+			"dateStart" : "2015-10-14",
+			"href"      : "http://www.w3c.es/Eventos/2015/DiaW3C/"
+		},
+
+		{
+			"event"     : "Buchtage 2015",
+			"place"     : "Berlin, Germany",
+			"dateStart" : "2015-06-17",
+			"dateEnd"   : "2015-06-18",
+			"href"      : "http://www.boersenverein.de/buchtage"
+		},
+
+		{
+			"event"     : "IDPF Digital Book Conference 2015",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2015-05-27",
+			"dateEnd"   : "2015-05-28",
+			"href"      : "http://idpf.org/digital-book-2015"
+		},
+
+		{
+			"event"     : "Assises du livre numérique",
+			"place"     : "Paris, France",
+			"dateStart" : "2015-03-19",
+			"href"      : "http://www.sne.fr/evenement_sne/assises-du-19-mars-2015/"
+		},
+
+		{
+			"event"     : "Leipziger Buchmesse",
+			"place"     : "Leipzig, Germany",
+			"dateStart" : "2015-03-14",
+			"href"      : "http://www.akeplog.de/w3c-vortrag-in-leipzig-bridging-the-web-and-digital-publishing-the-epub-web/"
+		},
+
+		{
+			"event"     : "eBookCraft conference 2015",
+			"place"     : "Toronto, Canada",
+			"dateStart" : "2015-03-11",
+			"href"      : "http://www.booknetcanada.ca/ebookcraft/"
+		},
+
+		{
+			"event"     : "EDUPUB Summit",
+			"place"     : "Phoenix, AZ, USA",
+			"dateStart" : "2015-02-26",
+			"dateEnd"   : "2015-02-27",
+			"href"      : "http://imsglobal.org/feb2015UofPhoenix.html"
+		},
+
+
+		{
+			"event"     : "Academic Publishing in Europe 10",
+			"place"     : "Berlin, Germany",
+			"dateStart" : "2015-01-20",
+			"dateEnd"   : "2015-01-21",
+			"persons"   : "Phil",
+			"href"      : "http://www.ape2015.eu"
+		},
+
+		{
+			"event"     : "XML Prague 2015",
+			"place"     : "Prague, Czech Republic",
+			"dateStart" : "2015-02-13",
+			"dateEnd"   : "2015-02-15",
+			"persons"   : "Felix",
+			"href"      : "http://imsglobal.org/feb2015UofPhoenix.html"
+		},
+
+		{
+			"event"     : "FORCE2015",
+			"place"     : "Oxford, UK",
+			"dateStart" : "2015-01-12",
+			"dateEnd"   : "2015-01-13",
+			"persons"   : "Ivan",
+			"href"      : "https://www.force11.org/meetings/force2015"
+		},
+
+		{
+			"event"     : "CNI Fall 2014 Membership Meeting",
+			"place"     : "Washington, D.C., USA",
+			"dateStart" : "2014-12-08",
+			"dateEnd"   : "2014-12-09",
+			"persons"   : "Karen",
+			"href"      : "http://www.cni.org/events/membership-meetings/past-meetings/fall-2014/"
+		},
+
+		{
+			"event"     : "Books in Browsers 2014",
+			"place"     : "San Francisco, CA, USA",
+			"dateStart" : "2014-10-23",
+			"dateEnd"   : "2014-10-25",
+			"persons"   : "Doug, Ralph, Karen, Liam, Ivan",
+			"href"      : "http://booksinbrowsers.org/"
+		},
+
+		{
+			"event"     : "EDUPUB Tokyo 2014",
+			"place"     : "Tokyo, Japan",
+			"dateStart" : "2014-09-16",
+			"dateEnd"   : "2014-09-17",
+			"persons"   : "Kazuyuki",
+			"href"      : "http://www.jepa.or.jp/edupub/index.html"
+		},
+
+		{
+			"event"     : "W3C Workshop on Chinese Language Layout Requirements",
+			"place"     : "Beijing, China",
+			"dateStart" : "2014-09-11",
+			"persons"   : "Xiaoqian, An Qi",
+			"href"      : "http://www.chinaw3c.org/layout-workshop.html"
+		},
+
+		{
+			"event"     : "IDPF @ BIBF",
+			"place"     : "Beijing, China",
+			"dateStart" : "2014-08-29",
+			"persons"   : "Xiaoqian, An Qi, Alan",
+			"href"      : "http://idpf.org/idpf-bibf-2014"
+		},
+
+		{
+			"event"     : "EDUPUB Europe",
+			"place"     : "Oslo, Norway",
+			"dateStart" : "2014-06-19",
+			"persons"   : "Ivan",
+			"href"      : "http://idpf.org/edupub-europe-2014"
+		},
+
+		{
+			"event"     : "IDPF Digital Book Conference 2014",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2014-05-27",
+			"dateEnd"   : "2014-05-28",
+			"persons"   : "Karen, Ivan",
+			"href"      : "http://idpf.org/digital-book-2014"
+		},
+
+		{
+			"event"     : "HTML5 CG Forum Satellite Conference",
+			"place"     : "Seoul, Korea",
+			"dateStart" : "2014-04-11",
+			"persons"   : "Kangchan, Ivan",
+			"href"      : "http://html5forum.or.kr/en/event/infomation.html"
+		},
+
+		{
+			"event"     : "W3C Track, WWW2014 Conference",
+			"place"     : "Seoul, Korea",
+			"dateStart" : "2014-04-09",
+			"persons"   : "Ivan",
+			"href"      : "http://www.w3.org/2014/04/w3c-track.html"
+		},
+
+		{
+			"event"     : "Footnotes, comments, bookmarks, and marginalia on the Web",
+			"place"     : "San Francisco, CA, USA",
+			"dateStart" : "2014-04-02",
+			"persons"   : "Doug, Ivan",
+			"href"      : "http://www.w3.org/2014/04/annotation/"
+		},
+
+		{
+			"event"     : "JATS-Con 2013(4)",
+			"place"     : "Bethesda, VA, USA",
+			"dateStart" : "2014-04-01",
+			"dateEnd"   : "2014-04-02",
+			"persons"   : "Liam",
+			"href"      : "http://jats.nlm.nih.gov/jats-con/2013/schedule2013.html"
+		},
+
+		{
+			"event"     : "EDUPUB2 Workshop on Digital Publishing for Education",
+			"place"     : "Salt Lake City, UT, USA",
+			"dateStart" : "2014-02-12",
+			"dateEnd"   : "2014-02-13",
+			"persons"   : "Ivan",
+			"href"      : "http://www.imsglobal.org/edupub/index.html"
+		},
+
+		{
+			"event"     : "Seminar on EPUB and Open Web Platform",
+			"place"     : "Delhi, India",
+			"dateStart" : "2013-11-30",
+			"persons"   : "Priyanka",
+			"href"      : "http://idpf.org/news/announcing-new-delhi-seminar-on-epub-and-open-web-platform-nov-30"
+		},
+
+		{
+			"event"     : "IDPF EDUPUB Workshop",
+			"place"     : "Boston, MA, USA",
+			"dateStart" : "2013-10-29",
+			"dateEnd"   : "2013-10-30",
+			"persons"   : "Jeff, Alan",
+			"href"      : "http://idpf.org/edupub-2013"
+		},
+
+		{
+			"event"     : "CONTEC",
+			"place"     : "Frankfurt, Germany",
+			"dateStart" : "2013-10-08",
+			"persons"   : "Ivan",
+			"href"      : "http://www.w3.org/2013/Talks/1008-Frankfurt-MGIH/"
+		},
+
+		{
+			"event"     : "Tag Digitales Publizieren",
+			"place"     : "Frankfurt, Germany",
+			"dateStart" : "2013-09-27",
+			"persons"   : "Felix",
+			"href"      : "http://www.semantic-media-web.de/index.php?id=180#digitales-publizieren",
+			"lang"      : "de"
+		},
+
+		{
+			"event"     : "Publishing and the OWP",
+			"place"     : "Paris, France",
+			"dateStart" : "2013-09-16",
+			"dateEnd"   : "2013-09-17",
+			"persons"   : "Liam, Thierry, Karen, Ivan",
+			"href"      : "http://www.w3.org/2012/12/global-publisher/"
+		},
+
+		{
+			"event"     : "eBooks & i18n: Richer Internationalization for eBooks",
+			"place"     : "Tokyo, Japan",
+			"dateStart" : "2013-06-04",
+			"persons"   : "Kazuyuki, Thierry, Karen, Ivan",
+			"href"      : "https://www.w3.org/2013/06/ebooks/"
+		},
+
+		{
+			"event"     : "IDPF Digital Book Conference 2013",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2013-05-29",
+			"dateEnd"   : "2013-05-30",
+			"persons"   : "Jeff",
+			"href"      : "http://idpf.org/digital-book-2013"
+		},
+
+		{
+			"event"     : "eBooks: Great Expectations for Web Standards",
+			"place"     : "New York, NY, USA",
+			"dateStart" : "2013-02-11",
+			"dateEnd"   : "2013-02-12",
+			"persons"   : "Kazuyuki, Thierry, Karen, Jeff, Ivan",
+			"href"      : "http://www.w3.org/2012/08/electronic-books/"
+		}
+	],
+
+	"presentations" : [
+		{
+			"event"     : "W3C AC Meeting 2017",
+			"place"     : "Beijing, China",
+			"presenter" : "Rick Johnson",
+			"date"      : "2017-04-24",
+			"href"		: "https://www.w3.org/2017/Talks/ac-slides/Publishing.pptx"
+		},
+
+		{
+			"event"     : "EPUB Summit 2017",
+			"place"     : "Brussels, Belgium",
+			"presenter" : "Liisa McCloy-Kelley and Ivan Herman",
+			"date"      : "2017-03-09",
+			"href"		: "https://www.youtube.com/watch?v=AEqF8hClvk4"
+		},
+
+		{
+			"event"     : "IDPF Meeting at DBW",
+			"place"     : "New York, NY, USA",
+			"presenter" : "Bill McCoy, George Kerscher, Garth Conboy, and Karen Myers",
+			"date"      : "2017-01-18"
+		},
+
+		{
+			"event"     : "Semantic Web In Libraries (SWIB16)",
+			"place"     : "Bonn, Germany",
+			"presenter" : "Ivan Herman",
+			"date"      : "2016-11-29",
+			"href"      : "https://www.w3.org/2016/Talks/SWIB16-IH/"
+		},
+
+		{
+			"event"     : "Assises du Livre Numérique",
+			"place"     : "Paris, France",
+			"presenter" : "Jeff Jaffe",
+			"date"      : "2016-11-16",
+			"href"      : "http://www.w3.org/2016/Talks/jj-assises-livre-num-2016.pptx"
+		},
+
+		{
+			"event"     : "2016 China National Computer Congress (CNCC2016)",
+			"place"     : "Taiyuan, China",
+			"presenter" : "Ivan Herman",
+			"date"      : "2016-10-20",
+			"href"      : "https://www.w3.org/2016/Talks/CNCC-IH/"
+		},
+
+		{
+			"event"     : "EU Interinstitutional Digital Publishing Committee Plenary Meeting",
+			"place"     : "Brussels, Belgium",
+			"presenter" : "Ivan Herman",
+			"date"      : "2016-10-11",
+			"href"      : "https://www.w3.org/2016/Talks/EU-Brussels-IH/"
+		},
+
+		{
+			"event"     : "EPUB Summit",
+			"place"     : "Bordeaux, France",
+			"presenter" : "Ivan Herman",
+			"date"      : "2016-04-07",
+			"href"      : "https://www.w3.org/2016/Talks/EPUBSummit-IH/"
+		},
+
+		{
+			"event"     : "markup forum 2015",
+			"place"     : "Stuttgart, Germany",
+			"presenter" : "Ivan Herman",
+			"date"      : "2015-11-20",
+			"href"      : "http://w3c.github.io/dpub/markup-forum-2015-11/index.html"
+		},
+
+		{
+			"event"     : "Día del W3C en España 2015: el futuro de la edición digital",
+			"place"     : "Madrid, Spain",
+			"presenter" : "Ivan Herman",
+			"date"      : "2015-10-14",
+			"href"      : "http://w3c.github.io/dpub/dia-del-w3c-2015-10/index.html"
+		},
+
+		{
+			"event"     : "Buchtage 2015",
+			"place"     : "Berlin, Germany",
+			"presenter" : "Ivan Herman",
+			"date"      : "2015-06-18",
+			"href"      : "http://w3c.github.io/dpub/buchtage-2015/index.html"
+		},
+
+		{
+			"event"     : "IDPF Digital Book Conference 2015",
+			"place"     : "New York, NY, USA",
+			"presenter" : "Tzviya Siegman, Markus Gylling, and Ivan Herman",
+			"date"      : "2015-05-28",
+			"href"      : "http://w3c.github.io/dpub/idpf-digital-book-2015/index.html"
+		},
+
+		{
+			"event"     : "Assises du livre numérique",
+			"place"     : "Paris, France",
+			"date"      : "2015-03-19",
+			"presenter" : "Ivan Herman",
+			"lang"      : "French",
+			"href"      : "http://w3c.github.io/dpub/salon-du-livre-2015-03/index.html"
+		},
+
+		{
+			"event"     : "Leipziger Buchmesse",
+			"place"     : "Leipzig, Germany",
+			"date"      : "2015-03-13",
+			"presenter" : "Felix Sasaki",
+			"lang"      : "German",
+			"href"      : "http://www.w3.org/Talks/2015/0314-digipub-bookfair-leipzig/"
+		},
+
+		{
+			"event"     : "eBookCraft Conference",
+			"place"     : "Toronto, Canada",
+			"date"      : "2015-03-11",
+			"presenter" : "Tzviya Siegman and Ivan Herman",
+			"href"      : "http://w3c.github.io/dpub/ebookcraft-2015-03/index.html"
+		},
+
+		{
+			"event"     : "EDUPUB Summit",
+			"place"     : "Phoenix, AZ, USA",
+			"date"      : "2015-02-27",
+			"presenter" : "Tzviya Siegman and Ivan Herman",
+			"href"      : "http://w3c.github.io/dpub/edupub-2015-03/index.html"
+		},
+
+		{
+			"event"     : "CNI Fall 2014 Membership Meeting",
+			"place"     : "Washington, D.C., USA",
+			"date"      : "2014-12-08",
+			"presenter" : "Karen Myers and Rob Sanderson",
+			"href"      : "http://www.w3.org/2014/Talks/CNI.2014-12-04.pdf"
+		},
+
+		{
+			"event"     : "the Books in Browsers Conference",
+			"place"     : "San Francisco, CA, USA",
+			"date" 		: "2014-10-23",
+			"presenter" : "Markus Gylling and Ivan Herman",
+			"href"      : "http://www.w3.org/2014/Talks/1023-SF-IH/"
+		},
+		{
+			"event"     : "IDPF @ BIBF",
+			"place"     : "Beijing, China",
+			"date" 		: "2014-09-29",
+			"presenter" : "Xiaoqian Wu (吴小倩)",
+			"lang"	    : "Mandarin",
+			"href"      : "http://www.w3.org/2014/Talks/0829-xiaoqian-bibf/#/"
+		},
+		{
+			"event"     : "the NUMA",
+			"place"     : "Paris, France",
+			"date" 		: "2014-06-26",
+			"presenter" : "Ivan Herman",
+			"lang"	    : "French",
+			"href"      : "http://www.w3.org/2014/Talks/0626-Paris-IH/Talk.pdf"
+		},
+		{
+			"event"     : "the IDPF Digital Book Conference",
+			"place"     : "New York, NY, USA",
+			"date" 		: "2014-05-29",
+			"presenter" : "Liza Daly, Markus Gylling and Ivan Herman",
+			"href"      : "http://www.w3.org/2014/Talks/0529-NYC-IH/"
+		},
+		{
+			"event"     : "HTML5 CG Forum Sattelite Conference",
+			"place"     : "Seoul, Korea",
+			"date" 		: "2014-04-11",
+			"presenter" : "Ivan Herman",
+			"href"      : "http://www.w3.org/2014/Talks/0411-Seoul-IH/"
+		},
+		{
+			"event"     : "W3C Track, WWW2014",
+			"place"     : "Seoul, Korea",
+			"date" 		: "2014-04-09",
+			"presenter" : "Ivan Herman",
+			"href"      : "http://www.w3.org/2014/Talks/0409-Seoul-IH/Talk.pdf"
+		},
+		{
+			"event"     : "JATS-Con 2013(4)",
+			"place"     : "Bethesda, VA, USA",
+			"date" 		: "2014-04-01",
+			"presenter" : "Liam Quin",
+			"href"      : "http://www.w3.org/2014/Talks/0401-jatscon-quin/#%281%29"
+		},
+		{
+			"place"     : "Beijing, China",
+			"date" 		: "2013-11-07",
+			"presenter" : "Ivan Herman",
+			"href"      : "http://www.w3.org/2013/Talks/1107-Beijing-IH/Talk.pdf"
+		},
+		{
+			"event"     : "CONTEC",
+			"place"     : "Frankfurt, Germany",
+			"date" 		: "2013-10-08",
+			"presenter" : "Markus Gylling and Ivan Herman",
+			"href"      : "http://www.w3.org/2013/Talks/1008-Frankfurt-MGIH/"
+		},
+		{
+			"event"     : "Cap Digital",
+			"place"     : "Paris, France",
+			"date" 		: "2013-09-18",
+			"presenter" : "Ivan Herman",
+			"lang"      : "French",
+			"href"      : "http://www.w3.org/2013/Talks/0918-Paris-IH/"
+		},
+		{
+			"event"     : "Balisage",
+			"place"     : "Prague, the Czech Republic",
+			"date" 		: "2013-08-06",
+			"presenter" : "Liam Quin",
+			"href"      : "http://www.w3.org/2013/Talks/08-quin-balisage/"
+		},
+		{
+			"event"     : "the IDPF Digital Book Conference",
+			"place"     : "New York, NY, USA",
+			"date" 		: "2013-05-29",
+			"presenter" : "Jeff Jaffe",
+			"href"      : "http://www.w3.org/2013/Talks/jj-idpf/jj-idpf2013.pptx"
+		}
+	]
+}

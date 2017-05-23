@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="content-type">
+        <meta charset="utf-8">
+        <title>Publishing@W3C</title>
+        <link rel="stylesheet" href="https://www.w3.org/2008/site/css/minimum" type="text/css" media="handheld, all">
+        <link rel="stylesheet" href="https://www.w3.org/2008/site/css/minimum" type="text/css" media="handheld, all">
+        <style type="text/css" media="print, screen and (min-width: 481px)">
+            @import url("https://www.w3.org/2008/site/css/advanced");
+        </style>
+        <link href="https://www.w3.org/2008/site/css/minimum" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 480px)">
+        <link rel="stylesheet" href="https://www.w3.org/2008/site/css/print" type="text/css" media="print">
+        <link rel="shortcut icon" href="https://www.w3.org/2008/site/images/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="css/home.css" type="text/css" media="handheld, all">
+        <meta name="viewport" content="width=320">
+        <link rel="Help" href="https://www.w3.org/Help/">
+        <script src="https://www.w3.org/scripts/jquery/2.1/jquery.min.js"></script>
+        <script src="js/feed.js"></script>
+        <script src="js/hyphenate.min.js"></script>
+        <script src="js/jquery.timer.js"></script>
+	    <script src="js/dpub-common.js"></script>
+        <script src="js/dpub.js"></script>
+        <script src="js/testimonials.js"></script>
+        <style type="text/css">
+            .logo {float: left;}
+            .cf{clear:both;}
+        </style>
+    </head>
+    <body id="www-w3-org" class="w3c_public">
+        <div id="w3c_container">
+            <!-- You probably do not want to change the header; it is the "standard" top level part of the page -->
+            <header id="w3c_mast">
+                <!-- #w3c_mast / Page top header -->
+                <h1 class="logo"> <a tabindex="2" accesskey="1" href="http://www.w3.org/">
+                <img src="https://www.w3.org/2008/site/images/logo-w3c-mobile-lg" alt="W3C" height="53" width="90"> </a> <span class="alt-logo">W3C</span> </h1>
+                <nav id="w3c_nav">
+                    <form action="https://www.w3.org/Help/search" method="get" enctype="application/x-www-form-urlencoded">
+                        <!-- w3c_sec_nav is populated through js -->
+                        <div class="w3c_sec_nav">
+                          <!-- --> </div>
+                        <ul class="main_nav">
+                            <!-- Main navigation menu -->
+                            <li class="first-item"> <a href="http://www.w3.org/standards/">Standards</a></li>
+                            <li> <a href="http://www.w3.org/participate/">Participate</a> </li>
+                            <li> <a href="http://www.w3.org/Consortium/membership">Membership</a></li>
+                            <li class="last-item"> <a href="http://www.w3.org/Consortium/">About W3C</a> </li>
+                            <li class="search-item">
+                                <div id="search-form">
+                                    <input tabindex="3" class="text" name="q" value="" title="Search">
+                                    <button id="search-submit" name="search-submit" type="submit">
+                                        <img class="submit" src="https://www.w3.org/2008/site/images/search-button" alt="Search" height="17" width="21">
+                                    </button>
+                                </div>
+                            </li>
+                        </ul>
+                    </form>
+                </nav>
+            </header>
+
+            <!-- This is the main content of the page -->
+            <main id="w3c_main">
+                <div id="w3c_logo_shadow" class="w3c_leftCol">
+                    <img alt="W3C" src="https://www.w3.org/2008/site/images/logo-shadow" height="32">
+                </div>
+
+                <!-- Navigation part on the left column -->
+                <nav id="w3c_sidenavigation" class="w3c_leftCol" style="font-size: 90%">
+                    <h2 class="offscreen">Site Navigation</h2>
+                    <h3 class="category"><span class="ribbon"><b>Active Groups, Resources</b></span></h3>
+                    <ul class="theme">
+                        <li><img src="https://www.w3.org/2017/01/publishingatw3c.png" alt="`Publishing@W3C` text in two colour and with a shadow" style="width:80%"></li>
+                        <li><a href="https://www.w3.org/community/publishingbg/">Publishing Business Group</a></li>
+                        <li><a href="https://www.w3.org/dpub/IG/wiki/Main_Page">Digital Publishing Interest Group</a></li>
+			            <li><a href="https://www.w3.org/community/epub3/">EPUB 3 Community Group</a></li>
+                    </ul>
+
+                    <h3 class="category"> <span class="ribbon"><b>Presentation Videos</b></span></h3>
+                    <p>
+                        <a class="imageLink" href="https://www.youtube.com/watch?v=AEqF8hClvk4"> <img src="home-page-imgs/liisa-brussels.png" alt="screenshot of Liisa McCloy-Kelley at a presentation in Brusels" width="100">Presentation by Liisa McCloy-Kelley and Ivan Herman at EPUB Summit 2017; Brussels, Belgium, 9 March, 2017.</a>
+                    </p>
+
+                    <h3 class="category"> <span class="ribbon"><b>Presentations</b></span></h3>
+                    <p>(See also <a href="events.html#presentations">complete list</a>)</p>
+
+                    <!-- The content below is filled in through the dpub.js script -->
+                    <ul class="theme" id="presentations">
+                    </ul>
+                </nav>
+
+                <!-- The top level menu -->
+                <div class="w3c_mainCol">
+                    <!-- The breadcrumb is static, and is part of the main W3C stye; let us not touch it -->
+                    <div id="w3c_crumbs">
+                        <div id="w3c_crumbs_frame">
+                            <ul class="bct">
+                                <!-- .bct / Breadcrumbs -->
+                                <li class="skip">
+                                    <a tabindex="1" accesskey="2" title="Skip to content (e.g., when browsing via audio)" href="#w3c_content_body">Skip</a>
+                                </li>
+                                <li><a href="https://www.w3.org/">W3C</a> <span class="cr">»</span> </li>
+                                <li class="current">Publishing@W3C</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <h1 class="title">Publishing@W3C</h1>
+                    <div class="line">
+                        <!-- This block is the main content in the middle of the page -->
+                        <div class="unit size2on3" id="maincol">
+                            <section id="w3c_content_body" class="hyphenate">
+	                            <h2 class="cf">How to Participate</h2>
+                                <p>
+                                    We welcome global participation in Publishing@W3C activities from any organization interested in joining the conversation about the future of publishing.
+                                    For those interested in maintaining EPUB 3 technical requirements and advancing further adoption, we encourage you to join the new <a href="https://www.w3.org/community/">EPUB 3 Community Group</a> which is free and open to all.
+                                    Simply go here to sign up.
+                                    W3C also looks forward to participating in the EPUB Summit, 9-10 March 2017 in Brussels, Belgium and we invite the community's participation.&nbsp;
+                                    The <a href="https://www.edrlab.org/epub-summit-2017-program/">EPUB Summit program agenda</a> is now available.
+                                </p>
+                                <p>
+                                    The focal point of conversations for the future of publishing will take place in the newly formed Publishing Business Group.
+                                    This group will hold its first face-to-face meeting on Monday, 13 March in London, UK, the day before the 2017 London Book Fair.
+                                    Participation in the Publishing Business Group has a modest annual fee, quite similar to the former IDPF annual dues.
+                                    To join the Publishing Business Group, please <a href="https://www.w3.org/community/">sign up here</a>.
+                                    Note: For IDPF members in good standing, participation in the Publishing Business Group is included as part of the Transitional Publishing Industry (TPI) membership.
+                                    For more information about the Publishing Business Group or TPI, please contact <a href="mailto:bmccoy@w3.org">Bill McCoy</a>, &lt;bmccoy@w3.org&gt; or <a href="mailto:abird@w3.org">Alan Bird</a> &lt;abird@w3.org&gt;.
+                                </p>
+                                <p>
+                                    Of course, organizations may also become regular members of W3C will all the benefits that enable you to participate in any W3C group for an annual feel.
+                                    To become a W3C member, please write to membership@w3.org for more information.
+                                </p>
+
+                                <h2>Latest News</h2>
+                                <!-- This div is filled through the feed.js script -->
+                                <div id="mainRss">
+
+                                </div>
+
+                                <h2>W3C Groups Relevant for Publishing</h2>
+                                <p>
+                                    There are many areas of technical work at W3C in which the publishing community is already participating.
+                                    Among these are the <a href="http://www.w3.org/dpub/IG/">Digital Publishing Interest Group</a>, the <a href="https://www.w3.org/annotation/">Web Annotation Working Group</a>, the <a href="https://www.w3.org/Style/CSS/">CSS Working Group</a>, and <a href="https://www.w3.org/WAI/intro/aria">Accessible Rich Internet Applications Working Group</a>.
+                                    Participation in Interest and Working Groups is open to regular members of W3C.
+                                </p>
+                                <p>
+                                    There are a number of groups working on technologies that will also be of interest and the publishing roadmap evolves including Video, Audio, Graphics, Web Payments to name a few.
+                                </p>
+
+                                <p>
+                                    <strong>Questions?</strong> Contact <a href="mailto:bmccoy@w3.org">Bill McCoy</a>, &lt;bmccoy@w3.org&gt;, Publishing@W3C Champion, or <a href="mailto:ivan@w3.org">Ivan Herman</a>, &lt;ivan@w3.org&gt;, Publishing@W3C Technical Lead.
+                                    This page is served from GitHub; comments and suggestions on the page can also be made via the <a href="https://github.com/w3c/publishing/issues">GitHub issues’</a> list.
+                                </p>
+                            </section>
+                          <!-- <section id="about" class="hyphenate"><br>
+                          </section> -->
+                        </div>
+
+                        <!-- Right column; most of the content there are generated -->
+                        <div class="unit size1on3 lastUnit" id="secondcol">
+                            <div class="infobar bPadding">
+                                <h3>Upcoming Events with W3C Participation</h3>
+                                <p>(See also <a href="events.html#events">complete list</a>)</p>
+                                <!-- This list is filled through the dpub.js script -->
+                                <ul class="theme" id="futureevents">
+                                </ul>
+                            </div>
+
+                            <!-- This block is filled through the feed.js script -->
+                            <div class="infobar bPadding" id="dpubRss">
+                                <h3><a href="http://www.w3.org/blog/dpub/">Meeting Summaries</a></h3>
+                                <p style="font-size:90%">See <a href="http://www.w3.org/blog/dpub/">all summaries</a> for details and older items</p>
+                            </div>
+
+                            <!-- This block is filled through the testimonials.js script -->
+                            <div class="infobar bPadding" id="testimonials">
+
+                                <!-- The buttons that control the display of the testimonials -->
+	                            <div id="reel-control" role="application" aria-roledescription="Buttons to control the display of testimonials">
+                                   <img id="pre_button" src="home-page-imgs/previous.png" alt="arrow to the left" role="button" aria-roledescription="Stop the automatic reel and switch to the previous testimonial"/>
+	                               <img id="pause_button" src="home-page-imgs/pause.png" alt="circle or double arrow to the right" role="switch" aria-checked="true" aria-roledescription="When checked, testimonials change automatically; when unchecked, use the next or previous action to move"/>
+	                               <img id="next_button" src="home-page-imgs/next.png" alt="arrow to the right" role="button" aria-roledescription="Stop the automatic reel and switch to the next testimonial"/>
+	                            </div>
+
+                                <h3>Industry testimonials</h3>
+                                <div id="quoteblock-inner" role="marquee" aria-roledescription="Display of testimonials; by default, changing automatically">
+                                    <div id="quoteblock-quote">
+                                        <blockquote id="quoteblock-tag-quote" class="hyphenate" ></blockquote>
+                                    </div>
+                                    <div id="quoteblock-attribution"><span id="quoteblock-tag-attribution"></span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- /end class line -->
+                </div><!-- /end #w3c_mainCol -->
+            </main><!--/ end #w3c_main -->
+
+            <!-- This is the standard footer, with reference to twitter and so on -->
+            <footer id="w3c_footer">
+                <div id="w3c_footer-inner">
+                    <h2 class="offscreen">Footer Navigation</h2>
+                    <div class="w3c_footer-nav">
+                        <h3>Navigation</h3>
+                        <ul class="footer_top_nav">
+                            <li> <a href="https://www.w3.org/">Home</a> </li>
+                            <li> <a href="https://www.w3.org/standards/">Standards</a> </li>
+                            <li> <a href="https://www.w3.org/participate/">Participate</a> </li>
+                            <li> <a href="https://www.w3.org/Consortium/membership">Membership</a></li>
+                            <li class="last-item"> <a href="https://www.w3.org/Consortium/">About W3C</a> </li>
+                        </ul>
+                    </div>
+                    <div class="w3c_footer-nav">
+                        <h3>Contact W3C</h3>
+                        <ul class="footer_bottom_nav">
+                            <li> <a href="https://www.w3.org/Consortium/contact">Contact</a> </li>
+                            <li> <a accesskey="0" href="https://www.w3.org/Help/">Help and FAQ</a></li>
+                            <li> <a href="https://www.w3.org/Consortium/sup">Donate</a> </li>
+                            <li> <a href="https://www.w3.org/Consortium/siteindex">Site Map</a></li>
+                            <li>
+                                <address id="w3c_signature"><a href="mailto:site-comments@w3.org">Feedback</a> (<a href="https://lists.w3.org/Archives/Public/site-comments/">archive</a>)</address>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="w3c_footer-nav">
+                        <h3>W3C Updates</h3>
+                        <ul class="footer_follow_nav">
+                            <li> <a href="http://twitter.com/W3C" title="Follow W3C on Twitter">
+                                <img src="https://www.w3.org/2008/site/images/Twitter_bird_logo_2012.svg"
+                                alt="Twitter" class="social-icon" height="40"> </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <p class="copyright">Copyright © 2017 W3C <sup>®</sup> (<a href="http://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="http://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="http://www.keio.ac.jp/">Keio</a>, <a href="http://ev.buaa.edu.cn/">Beihang</a>) <a href="https://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231">Usage policies apply</a>.</p>
+                </div>
+            </footer><!-- #footer address / page signature -->
+        </div><!-- /end #www-w3-org -->
+    </body>
+</html>
