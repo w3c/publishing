@@ -88,8 +88,8 @@ $(document).ready( function() {
 	});
 
 	$("#mainRss").atomfeed({
-		// url: "https://www.w3.org/blog/category/digital-publishing/feed/",
-		url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/category/digital-publishing/feed/",
+		url: "https://www.w3.org/blog/category/digital-publishing/feed/",
+		// url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/category/digital-publishing/feed/",
 		printEntry : W3CFeedContentMain,
 		maxCount : 3,
 		showDescr: true,
