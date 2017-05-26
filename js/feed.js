@@ -73,15 +73,15 @@ var W3CFeedContentMain = function(title, link, pubDate, descr) {
 $(document).ready( function() {
 	// Add the blog references
 	$("#dpubRss").atomfeed({
-		//url: "https://www.w3.org/blog/dpub/category/activity-news/feed/",
-		url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/",
+		url: "https://www.w3.org/blog/dpub/category/activity-news/feed/",
+		// url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/",
 		printEntry : W3CFeedContentDpub,
 		maxCount : 3,
 		showDescr: false,
 	});
 	$("#divRss").atomfeed({
 		// url: "https://www.w3.org/blog/dpub/category/activity-news/feed/",
-		url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/",
+		// url: "https://cors-anywhere.herokuapp.com/https://www.w3.org/blog/dpub/category/activity-news/feed/",
 		printEntry : W3CFeedContentDpub,
 		maxCount : 3,
 		showDescr: false,
