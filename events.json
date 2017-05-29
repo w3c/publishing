@@ -11,7 +11,8 @@
 			"event"		: "DPUB IG & Publ BG joint F2F Meeting",
 			"place"		: "New York, NY, USA",
 			"dateStart"	: "2017-06-22",
-			"dateEnd"	: "2017-06-23"
+			"dateEnd"	: "2017-06-23",
+			"href"		: "https://www.w3.org/dpub/IG/wiki/June_2017_F2F"
 		},
 		{
 			"event"		: "PubTechConnect: Where Publishing and Technology Intersect",
