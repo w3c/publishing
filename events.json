@@ -1,11 +1,18 @@
 {
 	"events" : [
 		{
-			"event"		: "DPUB IG F2F Meeting at the W3C TPAC Meeting",
+			"event"		: "W3C Publishing Summit 2017",
+			"place"		: "Burlingame, CA, USA",
+			"dateStart"	: "2017-11-09",
+			"dateEnd"	: "2017-11-10",
+			"href"		: "https://www.w3.org/publishing/events/summit2017.html"
+		},
+		{
+			"event"		: "Publishing WG F2F Meeting at the W3C TPAC Meeting",
 			"place"		: "Burlingame, CA, USA",
 			"dateStart"	: "2017-11-06",
 			"dateEnd"	: "2017-11-07",
-			"href"		: "http://www.PubTechConnect.com"
+			"href"		: "https://www.w3.org/2017/11/TPAC/"
 		},
 		{
 			"event"		: "DPUB IG & Publ BG joint F2F Meeting",
