@@ -1,3 +1,14 @@
+/*  
+* == Unminified source ==
+*
+* publishing/events/summit2017 takes its styling from summit.min.css
+*
+* Use https://github.com/css/csso to minify css for summit.min.css
+*
+* Keep both css files updated, please 
+*
+*/
+
 #content,
 h1 {
     margin-top: 0
@@ -19,7 +30,7 @@ h2 {
 }
 
 body {
-    font-family: "'Noto Sans'", "'Droid Sans'", "'Helvetica Neue'", Arial;
+    font-family: 'Noto Sans','Droid Sans','Helvetica Neue','Arial';
     font-size: 1.8em;
     margin-bottom: 0;
     padding-bottom: 30px;
