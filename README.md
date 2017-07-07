@@ -5,7 +5,7 @@ This is the repository for the home page of the W3C Publishing@W3C activities: [
 
 The repository is maintained by [mailto:ivan@w3.org](Ivan Herman); the content of the page is a joint responsibility of the W3C@Publishing staff.
 
-How to build the site from the sources:
+How to build the site from the sources (make sure you `build` before submitting a PR):
 
 ```bash
 git clone https://github.com/w3c/publishing.git
