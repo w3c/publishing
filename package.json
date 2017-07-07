@@ -1,0 +1,24 @@
+{
+  "name": "publishing",
+  "version": "0.1.0",
+  "description": "Home page of Publishing@W3C",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w3c/publishing"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3c/publishing/issues"
+  },
+  "private": true,
+  "devDependencies": {
+    "csso-cli": "1.0.0"
+  },
+  "scripts": {
+    "build": "csso events/css/summit.css events/css/summit.min.css"
+  },
+  "engines": {
+    "node": "6 || 8",
+    "npm": "3 || 5"
+  }
+}
