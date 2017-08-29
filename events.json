@@ -15,6 +15,12 @@
 			"href"		: "https://www.w3.org/2017/11/TPAC/"
 		},
 		{
+			"event"		: "Workshop E-Publishing im W3C",
+			"place"		: "Frankfurt-am-Main, Germany",
+			"dateStart"	: "2017-09-15",
+			"href"		: "https://www.igdigital.de/workshop-epublishing/"
+		},
+		{
 			"event"		: "DPUB IG & Publ BG joint F2F Meeting",
 			"place"		: "New York, NY, USA",
 			"dateStart"	: "2017-06-22",
@@ -365,6 +371,13 @@
 	],
 
 	"presentations" : [
+		{
+			"event"		: "Workshop E-Publishing im W3C",
+			"place"		: "Frankfurt-am-Main, Germany",
+			"presenter"	: "Ivan Herman",
+			"date"		: "2017-09-15",
+			"href"		: "http://www.w3.org/2017/Talks/Publishers_DE-IH/"
+		},
 		{
 			"event"     : "W3C AC Meeting 2017",
 			"place"     : "Beijing, China",
