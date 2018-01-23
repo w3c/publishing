@@ -8,6 +8,20 @@
 			"href"		: "https://www.w3.org/publishing/groups/publ-wg/Meetings/F2F/2018.05.Toronto"
 		},
 		{
+			"event"		: "Digital Publishing Summit Europe 2018",
+			"place"		: "Berlin, Germany",
+			"dateStart"	: "2018-05-16",
+			"dateEnd"	: "2018-05-17",
+			"href"		: "https://www.edrlab.org/dpub-summit-2018/"
+		},
+		{
+			"event"		: "ebookcraft 2018",
+			"place"		: "Toronto, Ontario, Canada",
+			"dateStart"	: "2018-03-21",
+			"dateEnd"	: "2018-03-22",
+			"href"		: "http://techforum.booknetcanada.ca/ebookcraft/"
+		},
+		{
 			"event"		: "EdTech 2017 Conference",
 			"place"		: "Madrid, Spain",
 			"dateStart"	: "2017-11-16",
@@ -385,6 +399,13 @@
 
 	"presentations" : [
 		{
+			"event"		: "ebookcraft",
+			"place"		: "Toronto, Ontaria, Canada",
+			"presenter"	: "Karen Myers and Tzviya Siegman",
+			"date"		: "2018-03-23",
+			"href"		: "https://www.youtube.com/watch?v=iCH24EumEVM"
+		},
+		{
 			"event"		: "EdTech Conference 2017",
 			"place"		: "Madrid, Spain",
 			"presenter"	: "Martín Álvarez and Ivan Herman",
@@ -405,7 +426,6 @@
 			"date"      : "2017-04-24",
 			"href"		: "https://www.w3.org/2017/Talks/ac-slides/Publishing.pptx"
 		},
-
 		{
 			"event"     : "EPUB Summit 2017",
 			"place"     : "Brussels, Belgium",
