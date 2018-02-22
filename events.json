@@ -414,6 +414,13 @@
 			"href"		: "https://www.youtube.com/watch?v=iCH24EumEVM"
 		},
 		{
+			"event"		: "W3C Publishing Summit 2017",
+			"place"		: "Burlingame, CA, USA",
+			"presenter" : "Jeff Jaffee",
+			"date"		: "2017-11-09",
+			"href"		: "https://www.w3.org/2017/Talks/PubSummit/Jaffe.pdf"
+		},
+		{
 			"event"		: "Workshop E-Publishing at W3C",
 			"place"		: "Frankfurt-am-Main, Germany",
 			"presenter"	: "Ivan Herman",
