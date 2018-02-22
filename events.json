@@ -27,8 +27,7 @@
 		{
 			"event"		: "EdTech 2017 Conference",
 			"place"		: "Madrid, Spain",
-			"dateStart"	: "2017-11-16",
-			"href"		: "http://cte.santillanatn.com/en/index.php"
+			"dateStart"	: "2017-11-16"
 		},
 		{
 			"event"		: "W3C Publishing Summit 2017",
@@ -405,8 +404,7 @@
 			"event"		: "ebookcraft",
 			"place"		: "Toronto, Ontaria, Canada",
 			"presenter"	: "Karen Myers and Tzviya Siegman",
-			"date"		: "2018-03-22",
-			"href"		: "https://www.youtube.com/watch?v=iCH24EumEVM"
+			"date"		: "2018-03-22"
 		},
 		{
 			"event"		: "EdTech Conference 2017",
