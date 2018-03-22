@@ -403,8 +403,9 @@
 		{
 			"event"		: "ebookcraft",
 			"place"		: "Toronto, Ontaria, Canada",
-			"presenter"	: "Karen Myers and Tzviya Siegman",
-			"date"		: "2018-03-22"
+			"presenter"	: "Tzviya Siegman and Karen Myers",
+			"date"		: "2018-03-22",
+			"href"		: "https://www.w3.org/2018/Talks/Ebookcraft/Talk.pdf"
 		},
 		{
 			"event"		: "EdTech Conference 2017",
