@@ -21,8 +21,8 @@
 			"place"		: "Toronto, Ontario, Canada",
 			"dateStart"	: "2018-03-21",
 			"dateEnd"	: "2018-03-22",
-			"persons"   : "Karen",
-			"href"		: "http://techforum.booknetcanada.ca/ebookcraft/"
+			"persons"   : "Karen, Tzviya",
+			"href"		: "https://www.booknetcanada.ca/ebookcraft/"
 		},
 		{
 			"event"		: "EdTech 2017 Conference",
@@ -405,7 +405,7 @@
 			"place"		: "Toronto, Ontario, Canada",
 			"presenter"	: "Tzviya Siegman and Karen Myers",
 			"date"		: "2018-03-22",
-			"href"		: "https://www.w3.org/2018/Talks/Ebookcraft/Talk.pdf"
+			"href"		: "https://www.youtube.com/watch?v=mTv4jfyuSmg"
 		},
 		{
 			"event"		: "EdTech Conference 2017",
