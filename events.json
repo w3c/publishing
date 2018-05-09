@@ -401,6 +401,12 @@
 
 	"presentations" : [
 		{
+			"event"		: "Digital Publishing Summit Europe 2018",
+			"place"		: "Berlin, Germany",
+			"presenter"	: "Garth Conboy",
+			"date"		: "2018-05-17"
+		},
+		{
 			"event"		: "ebookcraft",
 			"place"		: "Toronto, Ontario, Canada",
 			"presenter"	: "Tzviya Siegman and Karen Myers",
