@@ -404,7 +404,8 @@
 			"event"		: "Digital Publishing Summit Europe 2018",
 			"place"		: "Berlin, Germany",
 			"presenter"	: "Garth Conboy",
-			"date"		: "2018-05-17"
+			"date"		: "2018-05-17",
+			"href"		: "https://docs.google.com/presentation/d/1WR91-UqMwo5EVnRQSqkxFwcb75mnsRUt4zAeS8jSqQs/edit?usp=sharing"
 		},
 		{
 			"event"		: "ebookcraft",
