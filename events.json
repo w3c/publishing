@@ -1,6 +1,14 @@
 {
 	"events" : [
 		{
+			"event"		: "W3C Workshop on Digital Publication Layout and Presentation (from Manga to Magazines)",
+			"place"		: "Tokyo, Japan",
+			"dateStart"	: "2018-09-18",
+			"dateEnd"	: "2018-09-19",
+			"persons"   : "Ivan",
+			"href"		: "https://www.w3.org/publishing/events/tokyo18-workshop/"
+		},
+		{
 			"event"		: "Publishing WG F2F Meeting",
 			"place"		: "Toronto, Ontario, Canada",
 			"dateStart"	: "2018-05-30",
