@@ -7,4 +7,4 @@ https://www.w3.org/publishing/
 
 ---
 
-The repository is maintained by Ivan Herman, [ivan@w3.org](mailto:ivan@w3.org); the content of the page is a joint responsibility of the W3C@Publishing staff.
+The repository is maintained by Ivan Herman, [ivan@w3.org](mailto:ivan@w3.org); the content of the page is a joint responsibility of the Publishing@W3C staff.
