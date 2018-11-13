@@ -1,6 +1,14 @@
 {
 	"events" : [
 		{
+			"event"		: "Assises du livre numérique",
+			"place"		: "Paris, France",
+			"dateStart"	: "2018-12-03",
+			"dateEnd"	: "2018-12-03",
+			"persons"   : "Ivan",
+			"href"		: "https://www.sne.fr/evenement_sne/les-10-ans-des-assises-du-livre-numerique/"
+		},
+		{
 			"event"		: "W3C Workshop on Digital Publication Layout and Presentation (from Manga to Magazines)",
 			"place"		: "Tokyo, Japan",
 			"dateStart"	: "2018-09-18",
@@ -408,6 +416,13 @@
 	],
 
 	"presentations" : [
+		{
+			"event"		: "Assises de livre numérique",
+			"place"		: "Paris, France",
+			"presenter"	: "Ivan Herman",
+			"date"		: "2018-12-03",
+			"href"		: "https://www.w3.org/2018/Talks/Assises-IH/"
+		},
 		{
 			"event"		: "Digital Publishing Summit Europe 2018",
 			"place"		: "Berlin, Germany",
