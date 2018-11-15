@@ -1,7 +1,7 @@
 {
 	"events" : [
 		{
-			"event"		: "Assises du livre numérique",
+			"event"		: "Les 10 ans des Assises du livre numérique",
 			"place"		: "Paris, France",
 			"dateStart"	: "2018-12-03",
 			"dateEnd"	: "2018-12-03",
@@ -417,7 +417,7 @@
 
 	"presentations" : [
 		{
-			"event"		: "Assises de livre numérique",
+			"event"		: "Les 10 ans des Assises du livre numérique",
 			"place"		: "Paris, France",
 			"presenter"	: "Ivan Herman",
 			"date"		: "2018-12-03",
