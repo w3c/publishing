@@ -30,19 +30,47 @@
                 align-items: center;
             }
             #logos1 {
+                grid-template-areas: "daisy publizon wiley hachette";
                 grid-template-columns: 1fr 1fr 2fr 3fr;
             }
             #logos2 {
+                grid-template-areas: "learning voyager norton lumina blank1 blank2 blank3";
                 grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
             }
-            .box {
-                border-radius: 5px;
-                border: 1pt solid black;
-                padding: 20px;
+            #daisy {
+                grid-area: daisy;
+            }
+            #publizon {
+                grid-area: publizon;
+            }
+            #wiley {
+                grid-area: wiley;
+            }
+            #hachette {
+                grid-area: hachette;
             }
 
-
-
+            #learning {
+                grid-area: learning;
+            }
+            #voyager {
+                grid-area: voyager;
+            }
+            #norton {
+                grid-area: norton;
+            }
+            #lumina {
+                grid-area: lumina;
+            }
+            #blank1 {
+                grid-area: blank1;
+            }
+            #blank2 {
+                grid-area: blank2;
+            }
+            #blank3 {
+                grid-area: blank3;
+            }
         </style>
     </head>
     <body id="www-w3-org" class="w3c_public">
@@ -211,60 +239,38 @@
 				<h5>Logos</h5>
 
                 <div class="logos" id="logos1">
-                    <div class="box">
-                        <svg viewBox="0 0 858 765">
-                            <title>DAISY Consortium Logo</title>
-                            <image href="donators_logos/daisy_high.jpg" width="858" height="765"/>
-                        </svg>
+                    <div class="box" id="daisy">
+                        <img src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 591 158">
-                            <title>Publizon Logo</title>
-                            <image href="donators_logos/publizon-logo.jpg" width="591" height="158"/>
-                        </svg>
+                    <div class="box" id="publizon">
+                        <img src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 576 231">
-                            <title>Wiley Logo</title>
-                            <image href="donators_logos/Wiley_Wordmark_black.png" width="576" height="231"/>
-                        </svg>
+                    <div class="box" id="wiley">
+                        <img src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 1885 606">
-                            <title>Hachette Logo</title>
-                            <image href="donators_logos/Hachette%20Livre.jpg" width="1885" height="606"/>
-                        </svg>
+                    <div class="box" id="hachette">
+                        <img src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
                     </div>
                 </div>
+
                 <div class="logos" id="logos2">
-                    <div class="box">
-                        <title>Learning Mate Logo</title>
-                        <svg viewBox="0 0 2354 417">
-                            <image href="donators_logos/LearningMate%20Logo.png" width="2354" height="417"/>
-                        </svg>
+                    <div class="box" id="learning">
+                        <img src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 478 512">
-                            <title>Voyager Japan Logo</title>
-                            <image href="donators_logos/rectangle_VJstar_logo_512.jpg" width="478" height="512"/>
-                        </svg>
+                    <div class="box" id="voyager">
+                        <img src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 1800 545">
-                            <title>W. W. Norton Logo</title>
-                            <image href="donators_logos/NortonLogo_notagline.jpg" width="1800" height="545"/>
-                        </svg>
+                    <div class="box" id="norton">
+                        <img src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
                     </div>
-                    <div class="box">
-                        <svg viewBox="0 0 2482 1750">
-                            <title>Lumina Datamatics Logo</title>
-                            <image href="donators_logos/Datamatics_logo.jpg" width="2482" height="1750"/>
-                        </svg>
+                    <div class="box" id="lumina">
+                        <img src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
                     </div>
-                    <div> </div>
-                    <div> </div>
-                    <div> </div>
+                    <div id="blank1"> </div>
+                    <div id="blank2"> </div>
+                    <div id="blank3"> </div>
                 </div>
+                
                 
 
                 <h4>
