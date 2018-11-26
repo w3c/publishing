@@ -23,6 +23,54 @@
                 list-style: disc inside;
             }
 
+            .logos {
+                display: grid;
+                grid-gap: 10px;
+                justify-items: center;
+                align-items: center;
+            }
+            #logos1 {
+                grid-template-areas: "daisy publizon wiley hachette";
+                grid-template-columns: 1fr 1fr 2fr 3fr;
+            }
+            #logos2 {
+                grid-template-areas: "learning voyager norton lumina blank1 blank2 blank3";
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+            }
+            #daisy {
+                grid-area: daisy;
+            }
+            #publizon {
+                grid-area: publizon;
+            }
+            #wiley {
+                grid-area: wiley;
+            }
+            #hachette {
+                grid-area: hachette;
+            }
+
+            #learning {
+                grid-area: learning;
+            }
+            #voyager {
+                grid-area: voyager;
+            }
+            #norton {
+                grid-area: norton;
+            }
+            #lumina {
+                grid-area: lumina;
+            }
+            #blank1 {
+                grid-area: blank1;
+            }
+            #blank2 {
+                grid-area: blank2;
+            }
+            #blank3 {
+                grid-area: blank3;
+            }
         </style>
     </head>
     <body id="www-w3-org" class="w3c_public">
@@ -189,31 +237,43 @@
 				    <li>Vitalsource</li>
                 </ul>
 				<h5>Logos</h5>
-				<div>
-				<img src="donators_logos/daisy_high.jpg" alt="DAISY Consortium logo" width="100"/>
-				</div>
-				<div>
-				<img src="donators_logos/publizon-logo.jpg" alt="Publizon logo" width="100"/>
-				</div>
-				<div>
-				<img src="donators_logos/Wiley_Wordmark_black.png" alt="Wiley logo" width="200"/>
-				</div>
-				<div>
-				<img src="donators_logos/Hachette%20Livre.jpg" alt="Hachette Livre logo" width="300"/>
-				</div>
-				<div>
-				<img src="donators_logos/LearningMate%20Logo.png" alt="LearningMate logo" width="100"/>
-				</div>
-				<div>
-				<img src="donators_logos/rectangle_VJstar_logo_512.jpg" alt="Voyager Japan logo" width="100"/>
-				</div>
-				<div>
-				<img src="donators_logos/NortonLogo_notagline.jpg" alt="W.W. Norton logo" width="100"/>
-				</div>
-				<div>
-				<img src="donators_logos/Datamatics_logo.jpg" alt="Lumina Datamatics logo" width="100"/>
-				</div>
-                            <h4>
+
+                <div class="logos" id="logos1">
+                    <div class="box" id="daisy">
+                        <img src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
+                    </div>
+                    <div class="box" id="publizon">
+                        <img src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
+                    </div>
+                    <div class="box" id="wiley">
+                        <img src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
+                    </div>
+                    <div class="box" id="hachette">
+                        <img src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
+                    </div>
+                </div>
+
+                <div class="logos" id="logos2">
+                    <div class="box" id="learning">
+                        <img src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
+                    </div>
+                    <div class="box" id="voyager">
+                        <img src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
+                    </div>
+                    <div class="box" id="norton">
+                        <img src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
+                    </div>
+                    <div class="box" id="lumina">
+                        <img src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
+                    </div>
+                    <div id="blank1"> </div>
+                    <div id="blank2"> </div>
+                    <div id="blank3"> </div>
+                </div>
+                
+                
+
+                <h4>
                                 Organization Background
                             </h4>
 				<p>
