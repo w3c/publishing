@@ -6,7 +6,8 @@
         .logos {
             display: grid;
             grid-gap: 10px;
-            grid-template-columns: 300px 200px repeat(auto-fit, 100px);
+            grid-template-columns: repeat(auto-fit, minmax(auto,100px));
+            grid-auto-flow: dense;
             justify-items: center;
             align-items: center;
             border: 1pt solid black;
@@ -19,40 +20,28 @@
             border: 1pt solid black;
             padding: 2px;
         }
+
+        .size3 {
+            grid-column: span 3
+        }
+
+        .size2 {
+            grid-column: span 2
+        }
+
     </style>
 </head>
 <body>
     <div class="logos">
-        <div class="box" id="hachette">
-            <!-- should be 300px -->
-            <img src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
-        </div>
-        <div class="box" id="wiley">
-            <!-- should be 200px -->
-            <img src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
-        </div>
-        <div class="box" id="daisy">
-            <img src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
-        </div>
-        <div class="box" id="publizon">
-            <img src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
-        </div>
-        <div class="box" id="learning">
-            <img src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
-        </div>
-        <div class="box" id="voyager">
-            <img src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
-        </div>
-        <div class="box" id="norton">
-            <img src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
-        </div>
-        <div class="box" id="lumina">
-            <img src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
-        </div>
-        <div>
-            <!-- should be 200px -->
-            <img src="donators_logos/QA%20InfoTech%20Logo%20PNG%20Format.png" alt="QA InfoTech logo" width="100%" height="auto"/>
+        <img class="box" src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
+        <img class="box" src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
+        <img class="box size2" src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
+        <img class="box size3" src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
+        <img class="box" src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
+        <img class="box" src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
+        <img class="box" src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
+        <img class="box" src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
+        <img class="box size2" src="donators_logos/QA%20InfoTech%20Logo%20PNG%20Format.png" alt="QA InfoTech logo" width="100%" height="auto"/>
     </div>
-</div>
 </body>
 </html>

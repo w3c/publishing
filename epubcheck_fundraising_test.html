@@ -26,50 +26,27 @@
             .logos {
                 display: grid;
                 grid-gap: 10px;
+                grid-template-columns: repeat(auto-fit, minmax(auto,100px));
+                grid-auto-flow: dense;
                 justify-items: center;
                 align-items: center;
-            }
-            #logos1 {
-                grid-template-areas: "daisy publizon wiley hachette";
-                grid-template-columns: 1fr 1fr 2fr 3fr;
-            }
-            #logos2 {
-                grid-template-areas: "learning voyager norton lumina blank1 blank2 blank3";
-                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-            }
-            #daisy {
-                grid-area: daisy;
-            }
-            #publizon {
-                grid-area: publizon;
-            }
-            #wiley {
-                grid-area: wiley;
-            }
-            #hachette {
-                grid-area: hachette;
+                /* border: 1pt solid black; */
+                padding: 20px;
             }
 
-            #learning {
-                grid-area: learning;
+            /* Only for testing */
+            .box {
+                /* border-radius: 5px;
+                border: 1pt solid black; */
+                padding: 2px;
             }
-            #voyager {
-                grid-area: voyager;
+
+            .size3 {
+                grid-column: span 3
             }
-            #norton {
-                grid-area: norton;
-            }
-            #lumina {
-                grid-area: lumina;
-            }
-            #blank1 {
-                grid-area: blank1;
-            }
-            #blank2 {
-                grid-area: blank2;
-            }
-            #blank3 {
-                grid-area: blank3;
+
+            .size2 {
+                grid-column: span 2
             }
         </style>
     </head>
@@ -237,45 +214,19 @@
 				    <li>Vitalsource</li>
                 </ul>
 				<h5>Logos</h5>
-
-                <div class="logos" id="logos1">
-                    <div class="box" id="daisy">
-                        <img src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
-                    </div>
-                    <div class="box" id="publizon">
-                        <img src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
-                    </div>
-                    <div class="box" id="wiley">
-                        <img src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
-                    </div>
-                    <div class="box" id="hachette">
-                        <img src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
-                    </div>
+                <div class="logos">
+                    <img class="box" src="donators_logos/daisy_high.jpg" width="100%" height="auto" alt="DAISY Consortium Logo"/>
+                    <img class="box" src="donators_logos/publizon-logo.jpg" width="100%" height="auto" alt="Publizon Logo"/>
+                    <img class="box size2" src="donators_logos/Wiley_Wordmark_black.png" width="100%" height="auto" alt="Wiley Logo"/>
+                    <img class="box size3" src="donators_logos/Hachette%20Livre.jpg" width="100%" height="auto" alt="Hachette Logo"/>
+                    <img class="box" src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
+                    <img class="box" src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
+                    <img class="box" src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
+                    <img class="box" src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
+                    <img class="box size2" src="donators_logos/QA%20InfoTech%20Logo%20PNG%20Format.png" alt="QA InfoTech logo" width="100%" height="auto"/>
                 </div>
 
-                <div class="logos" id="logos2">
-                    <div class="box" id="learning">
-                        <img src="donators_logos/LearningMate%20Logo.png" width="100%" height="auto" alt="Learning Mate Logo"/>
-                    </div>
-                    <div class="box" id="voyager">
-                        <img src="donators_logos/rectangle_VJstar_logo_512.jpg" width="100%" height="auto" alt="Voyager Japan Logo"/>
-                    </div>
-                    <div class="box" id="norton">
-                        <img src="donators_logos/NortonLogo_notagline.jpg" width="100%" height="auto" alt="W. W. Norton Logo"/>
-                    </div>
-                    <div class="box" id="lumina">
-                        <img src="donators_logos/Datamatics_logo.jpg" width="100%" height="auto" alt="Lumina Datamatics Logo"/>
-                    </div>
-                    <div id="blank1"> </div>
-                    <div id="blank2"> </div>
-                    <div id="blank3"> </div>
-                </div>
-                
-                
-
-                <h4>
-                                Organization Background
-                            </h4>
+                <h4>Organization Background</h4>
 				<p>
                                 This work is managed by the <a href="https://w3c.github.io/publ-bg/Steering_Committee/">Steering Committee</a> of the <a href="https://www.w3.org/publishing/groups/publ-bg/">Publishing Business Group</a> at W3C. 
                             </p>
