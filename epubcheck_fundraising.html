@@ -26,12 +26,17 @@
             .logos {
                 display: grid;
                 grid-gap: 10px;
-                grid-template-columns: repeat(auto-fit, minmax(150px,170px));
-                grid-auto-flow: dense;
+                grid-template-columns: repeat(auto-fit, minmax(50px,70px));
                 justify-items: center;
                 align-items: center;
                 /* border: 1pt solid black; */
                 padding: 20px;
+            }
+
+            @media screen and (min-width: 600px) {
+                .logos {
+                    grid-template-columns: repeat(auto-fit, minmax(100px, 120px))
+                }
             }
 
             /* Only for testing */
