@@ -9,6 +9,14 @@
 			"href"		: "https://www.edrlab.org/dpub-summit-2019/"
 		},
 		{
+			"event"		: "ebookcraft 2019",
+			"place"		: "Toronto, Ontario, Canada",
+			"dateStart"	: "2019-03-18",
+			"dateEnd"	: "2019-03-19",
+			"persons"   : "Dave, Franco, Nick, Romain, Marisa, Wendy",
+			"href"		: "https://www.booknetcanada.ca/ebookcraft/"
+		},
+		{
 			"event"		: "Les 10 ans des Assises du livre numérique",
 			"place"		: "Paris, France",
 			"dateStart"	: "2018-12-03",
