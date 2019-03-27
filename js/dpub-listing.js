@@ -9,7 +9,7 @@
 * @license: W3C Software License — https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
 */
 $(document).ready( function() {
-	/* Get the JSON file; it retuns a Promise-like structure */
+	/* Get the JSON file; it returns a Promise-like structure */
 	$.getJSON("events.json")
 		.done(function(events) {
 			/*
@@ -21,9 +21,9 @@ $(document).ready( function() {
 			var ul   = "";
 			var main = $("#events");
 			events.events.forEach(function(element, index, array) {
-	        	var date = stringToDate(element.dateStart);
-	        	var eyear = date.year;
-	        	if( year > eyear ) {
+				var date = stringToDate(element.dateStart);
+				var eyear = date.year;
+				if( year > eyear ) {
 					main.append("<h3>" + eyear + "</h3>");
 					ul = $("<ul></ul>");
 					main.append(ul);

@@ -9,7 +9,7 @@
 var quote_rotate = (function() {
 	$.getJSON("testimonials.json")
 	  .done(function(tdata) {
-			var quotes        = tdata.testimonials
+			var quotes        = tdata.current;
 		 	var quoteindex    = 0;     // Current quote index
 		 	var fadetime      = 1200;  // Length of time to spend fading
 		 	var timerinterval = 13000; // How long to wait before changing the quote
@@ -73,7 +73,7 @@ var quote_rotate = (function() {
 					pause_reel($("#pause_button"));
 				});
 				$("#pause_button").click(function() {
-					// Pause/resume the automic rotation of testimonials
+					// Pause/resume the automatic rotation of testimonials
 					if( automatic === true ) {
 						pause_reel($(this));
 					} else {

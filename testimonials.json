@@ -1,5 +1,5 @@
 {
-	"testimonials" : [
+	"current" : [
 		{
 			"quote" : "ACCESS welcomes full combination of W3C and IDPF. Books have been saved as enormous human intelligence. Web technology provide unlimited capability to share information to the world. The combination of books and the Web makes expansion of the whole publication market and the creation of new business. We will cooperate with all of you joined Publishing@W3C, so that we will establish intelligence for new generation together.",
 			"attribution": "Ryuji Natsuumi, COO-Japan, VP of Digital Publishing Business Unit, ACCESS CO., Ltd."
@@ -32,6 +32,18 @@
 			"attribution" : "Laurent Le Meur, CTO, EDRLab"
 		},
 
+		{
+			"quote": "The combination of W3C and IDPF aligns the goals, needs and requirements of users around the globe. VitalSource is committed to bringing improved solutions to our content creators, partners and end users based on the work of W3C and IDPF and are excited to continue our leadership in this area.",
+			"attribution": "Rick Johnson, VP of Product Strategy, VitalSource"
+		},
+
+		{
+			"quote": "Wiley is thrilled to see the two organizations coming together. We can now return to focusing more on publishing as a means to share and communicate knowledge, and less on scrambling to adapt to the plethora of new devices and modalities. We believe the standards of the two organizations overlap more than they diverge. We look forward to the continuing evolution of publishing, wherever it happens",
+			"attribution": "Patrick Johnston, Director of Platform Architecture, Product Technology, John Wiley & Sons, Inc."
+
+		}
+	],
+	"past" : [
 		{
 			"quote": "The combination of W3C and IDPF aligns the goals, needs and requirements of users around the globe. VitalSource is committed to bringing improved solutions to our content creators, partners and end users based on the work of W3C and IDPF and are excited to continue our leadership in this area.",
 			"attribution": "Rick Johnson, VP of Product Strategy, VitalSource"

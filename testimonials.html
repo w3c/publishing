@@ -3,7 +3,7 @@
     <head>
         <meta content="text/html; charset=utf-8" http-equiv="content-type">
 	    <meta charset="utf-8">
-        <title>Publishing@W3C—Events</title>
+        <title>Publishing@W3C—Testimonials</title>
         <link rel="stylesheet" href="https://www.w3.org/2008/site/css/minimum" type="text/css" media="handheld, all">
         <link rel="stylesheet" href="https://www.w3.org/2008/site/css/minimum" type="text/css" media="handheld, all">
         <style type="text/css" media="print, screen and (min-width: 481px)">
@@ -20,11 +20,25 @@
         <script src="js/hyphenate.min.js"></script>
         <script src="js/jquery.timer.js"></script>
 	    <script src="js/dpub-common.js"></script>
-	    <script src="js/dpub-listing.js"></script>
-        <script src="js/testimonials.js"></script>
+        <script src="js/testimonial-listings.js"></script>
         <style type="text/css">
             .logo {float: left;}
             .cf{clear:both;}
+
+            div.testimonial {
+                border: 1pt solid black;
+                border-radius: 1em;
+            }
+            .testimonial_text {
+                hyphens: auto;
+            }
+            .testimonial_author {
+                text-align: end;
+                font-style: italic
+            }
+            .testimonial_author::before {
+                content: '— '
+            }
         </style>
     </head>
     <body id="www-w3-org" class="w3c_public">
@@ -83,21 +97,21 @@
                                 </li>
                                 <li><a href="https://www.w3.org/">W3C</a> <span class="cr">»</span> </li>
                                 <li><a href="https://www.w3.org/publishing">Publishing@W3C</a> <span class="cr">»</span></li>
-          	                     <li class="current">Events &amp; Presentations</li>
+          	                     <li class="current">Industry Testimonials</li>
                             </ul>
                         </div>
                     </div>
 
-                    <h1 class="title">Publishing@W3C—List of Events and Presentations with W3C participation</h1>
+                    <h1 class="title">Publishing@W3C—Industry Testimonials</h1>
                     <div class="line">
                         <div class="unit size2on3" id="maincol">
 	                        <section id="w3c_content_body">
-                                <!-- These sections are filled through the dpub-listing.js script -->
-                                <section id="events">
-                                    <h2>Events</h2>
+                                <!-- These sections are filled through the testimonial-listings.js script -->
+                                <section id="current_testimonials">
+                                    <h2>Current Testimonials</h2>
                                 </section>
-                                <section id="presentations">
-                                    <h2>Presentations</h2>
+                                <section id="past_testimonials">
+                                    <h2>Past Testimonials</h2>
                                 </section>
                             </section>
                         </div>
