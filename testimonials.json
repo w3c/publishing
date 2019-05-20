@@ -1,53 +1,46 @@
 {
-	"current" : [
+	"current": [
 		{
 			"quote": "JEPA strongly believes that the EPUB 3 family will continue to play an important role in future publishing.  We welcome the release of EPUB 3.2 from W3C, since it is now obvious that W3C is committed to the maintenance of EPUB 3.",
 			"attribution": "Kazuo Shimokawa, Vice Chairman, Japan Electronic Publishing Association"
+		},
+		{
+			"quote": "<span lang='ja'>講談社はEPUB 3.2がWebの世界でより広く深く受け入れられるよう、EPUBの仕様が進化したことを歓迎しています。もともとEPUBは、紙によるフィクションやノンフィクション作品を主に扱ってきた出版界だけではなく、企業や公共の組織、学術の世界で得られた知識や情報を、様々なブラウザーやハードウェアといった制約にとらわれる事なく、広く共有し活用する事を念頭に開発された仕様です。HTML5、CSS、SVGといったWeb技術の進化とともにEPUBのバージョンが上がり、特定の書記方法や言語の壁を超え、アクセシビリティの向上などによって、さらに多くの人々がこれまで以上の広がりを持った知識や情報へのアクセスがしやすくなったと感じています。Webという新たな場所で、EPUB3.2を活用して、より多くの人々に、より豊かな表現力を得て、知識や情報を広げていく活動の一端を担える事を、講談社は誇りに感じています。</span>",
+			"attribution": "Junichi Yoshii, Kodansha"
 		}
 	],
-	
-	"past" : [
+	"past": [
 		{
-			"quote" : "ACCESS welcomes full combination of W3C and IDPF. Books have been saved as enormous human intelligence. Web technology provide unlimited capability to share information to the world. The combination of books and the Web makes expansion of the whole publication market and the creation of new business. We will cooperate with all of you joined Publishing@W3C, so that we will establish intelligence for new generation together.",
+			"quote": "ACCESS welcomes full combination of W3C and IDPF. Books have been saved as enormous human intelligence. Web technology provide unlimited capability to share information to the world. The combination of books and the Web makes expansion of the whole publication market and the creation of new business. We will cooperate with all of you joined Publishing@W3C, so that we will establish intelligence for new generation together.",
 			"attribution": "Ryuji Natsuumi, COO-Japan, VP of Digital Publishing Business Unit, ACCESS CO., Ltd."
 		},
-
 		{
 			"quote": "As the leader in creative content authoring and publishing, Adobe is pleased with the merger of W3C and the IDPF.  Adobe has worked with both organizations to bring professional publishing techniques to the Open Web Platform and we look forward to working together to set the roadmap for the future of publishing. The work on Web Publications will serve to continue the W3C’s efforts to shape the way that content is delivered—from classic publications, to documents, to any content destined for distribution.",
 			"attribution": "Leonard Rosenthol, Senior Principal Scientist, Adobe"
 		},
-
 		{
 			"quote": "<span lang='ja'>アンテナハウスはW3CとIDPFの完全統合を歓迎いたします。弊社は、2011年より、デジタル書籍制作Webサービス（CAS-UB）というワンソースからPDF、EPUB、Webを作るサービスを提供しています。EPUBとWebは内容を記述する形式としてHTMLを共有しています。しかし、Webの基本であるURIや通信プロトコルの面では統合が不十分であり、EPUBとWebが別の存在となっているのに不便を感じていました。W3CとIDPFの統合により、今後、EPUBのWebへの統合が進むことを期待しています。</span>",
 			"attribution": "Tokushige Kobayashi, President, Antenna House Inc. <span lang='ja'>アンテナハウス株式会社 代表取締役社長 小林 徳滋</span>"
 		},
-
 		{
 			"quote": "Benetech, a long standing member of both W3C and IDPF, has worked closely with both organizations to establish and advance accessibility standards. With the IDPF’s EPUB architecture based on W3C’s web technologies, the W3C and IDPF merger will help accelerate the accessibility of future publications to not only be born digital but also born accessible. Benetech is excited to be a part of this new joint partnership and is looking forward to an accessible and bright future.",
-			"attribution" : "Brad Turner, VP of Global Literacy, Benetech"
-
+			"attribution": "Brad Turner, VP of Global Literacy, Benetech"
 		},
-
 		{
 			"quote": "As an academic research institution, it is in CWI's interest to see academic publishing evolve towards a more Web based, interactive, and globally accessible form of communication, providing a superior user experience for researchers both online and offline. We are greatly encouraged by, and welcome the combination of IDPF and W3C, which we believe will help bringing us closer to a new type of environment for scholarly publishing.",
-			"attribution" : "Jos Baeten, general director of <span lang='nl'>Centrum Wiskunde &amp; Informatica (CWI)</span>"
-
+			"attribution": "Jos Baeten, general director of <span lang='nl'>Centrum Wiskunde &amp; Informatica (CWI)</span>"
 		},
-
 		{
 			"quote": "The European Digital Reading Lab (EDRLab) is excited at the prospect of participating to the evolution of publishing standards and associated technologies with experts from two complementary domains, publishing and Web. Since 2015, we are promoting interoperability and accessibility via a broader use of EPUB in Europe. We believe that W3C support will encourage a broader adoption of EPUB 3, beyond the book industry, and may position EPUB as THE publishing format or any type of document. We are also confident that the work on Portable Web Publications, as initiated by W3C and IDPF experts inside the DPUB IG, associated with the work of the Readium Foundation on modern open-source reading software, will bring great benefits to readers in the coming years, including print-disabled people.",
-			"attribution" : "Laurent Le Meur, CTO, EDRLab"
+			"attribution": "Laurent Le Meur, CTO, EDRLab"
 		},
-
 		{
 			"quote": "The combination of W3C and IDPF aligns the goals, needs and requirements of users around the globe. VitalSource is committed to bringing improved solutions to our content creators, partners and end users based on the work of W3C and IDPF and are excited to continue our leadership in this area.",
 			"attribution": "Rick Johnson, VP of Product Strategy, VitalSource"
 		},
-
 		{
 			"quote": "Wiley is thrilled to see the two organizations coming together. We can now return to focusing more on publishing as a means to share and communicate knowledge, and less on scrambling to adapt to the plethora of new devices and modalities. We believe the standards of the two organizations overlap more than they diverge. We look forward to the continuing evolution of publishing, wherever it happens",
 			"attribution": "Patrick Johnston, Director of Platform Architecture, Product Technology, John Wiley & Sons, Inc."
-
 		}
 	]
 }
