@@ -23,6 +23,10 @@
 		{
 			"quote" : "EPUB 3 is a de facto standard in Japanese eBook industry and we welcome the sustainable evolution of EPUB 3. APL looks forward to EPUB 3.2 as the first update of EPUB 3 by W3C and we support continuous maintenance with reasonable compatibility.",
 			"attribution": "Shinya Takami, EPUB-WG leader, Advanced Publishing Laboratory"
+		},
+		{
+			"quote": "Wiley has been a strong supporter of the EPUB family of specifications for many years. We are happy to see the first update by the W3C to this important specification and, with the help of the recent updates to EPUBCheck, have already incorporated it into our toolchain. This update demonstrates that the EPUB community is devoted to truly understanding the needs of its users and responding to the feedback it receives.",
+			"attribution": "Tzviya Siegman, Information Standards Lead, Wiley"
 		}
 	],
 	"past": [
