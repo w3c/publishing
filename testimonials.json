@@ -27,6 +27,10 @@
 		{
 			"quote": "Wiley has been a strong supporter of the EPUB family of specifications for many years. We are happy to see the first update by the W3C to this important specification and, with the help of the recent updates to EPUBCheck, have already incorporated it into our toolchain. This update demonstrates that the EPUB community is devoted to truly understanding the needs of its users and responding to the feedback it receives.",
 			"attribution": "Tzviya Siegman, Information Standards Lead, Wiley"
+		},
+		{
+			"quote" : "Benetech is proud to be a part of the evolution and advancement of the latest EPUB 3.2 specification.  Congratulations to Rachel Comerford and Dave Cramer for leading the charge and to all the EPUB3 Community Group members who helped make this a reality.  A special thanks to DAISY for updating EPUBCheck to validate this latest specification which is crucial for world wide adoption.",
+			"attribution": "Charles LaPierre, Technical Lead, DIAGRAM and Born Accessible, Benetech"
 		}
 	],
 	"past": [
