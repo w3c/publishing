@@ -1,6 +1,10 @@
 {
 	"current": [
 		{
+			"quote":"<span lang='fr'>Hachette Livre salue le formidable travail du W3C pour porter EPUB, le standard ouvert de l’industrie de livre numérique, à son meilleur niveau. <br/> Le groupe «&nbsp;EPUB 3 Community&nbsp;», sous la conduite de Dave Cramer (Hachette Book Group) et de Rachel Comerford (Macmillan Learning), a tenu ensemble pragmatisme et vision du futur pour offrir avec EPUB 3.2 une version rétro-compatible et novatrice du format EPUB3. Pour citer Dave Cramer : «&nbsp;vos EPUBs sont probablement déjà des fichiers EPUB 3.2 valides.&nbsp;» Luc Audrain a dit : «&nbsp;Avec EPUB 3.2, c’est tout l’écosystème du livre numérique qui bénéficie d’une version mature de EPUB3 avec ses formidables qualités d’universalité, d’interopérabilité et d’accessibilité.&nbsp;»<br/>Une mention particulière pour le DAISY Consortium qui, sous la responsabilité du Publishing Business Group, a conduit en temps et en heure une révision majeure de haute qualité de l’outil EPUBCheck. En validant EPUB 3.2, EPUBCheck 4.2 assure la pérennité du format EPUB pour l’industrie du livre numérique.<br/>«&nbsp;Je tiens ici à remercier les donateurs qui ont déjà participé à l’effort de financement participatif d’EPUBCheck en cours&nbsp;».</span>",
+			"attribution": "Luc Audrain, Head of Digitalization, Hachette Livre"
+		},
+		{
 			"quote": "JEPA strongly believes that the EPUB 3 family will continue to play an important role in future publishing.  We welcome the release of EPUB 3.2 from W3C, since it is now obvious that W3C is committed to the maintenance of EPUB 3.",
 			"attribution": "Kazuo Shimokawa, Vice Chairman, Japan Electronic Publishing Association"
 		},
@@ -9,7 +13,7 @@
 			"attribution": "Junichi Yoshii, Kodansha"
 		},
 		{
-			"quote": "KADOKAWAはEPUB 3.2がWebの世界でより広く深く受け入れられるよう、EPUBの仕様が進化したことを歓迎しています。 EPUBは、出版界だけではなく、企業や公共の組織、学術の世界で得られた知識や情報を、様々なブラウザーやハードウェアといった制約にとらわれる事なく、広く共有し活用する事を念頭に開発された仕様です。Web技術の進化とともにEPUBのバージョンが上がり、特定の書記方法や言語の壁を超え、アクセシビリティの向上などによって、さらに多くの人々がこれまで以上の広がりを持った知識や情報へのアクセスがしやすくなったと感じています。 Webという新たな場所で、EPUB3.2を活用して、より多くの人々に、知識や情報を広げていく活動の一端を担える事を、KADOKAWAは誇りに感じています。",
+			"quote": "<span lang='ja'>KADOKAWAはEPUB 3.2がWebの世界でより広く深く受け入れられるよう、EPUBの仕様が進化したことを歓迎しています。 EPUBは、出版界だけではなく、企業や公共の組織、学術の世界で得られた知識や情報を、様々なブラウザーやハードウェアといった制約にとらわれる事なく、広く共有し活用する事を念頭に開発された仕様です。Web技術の進化とともにEPUBのバージョンが上がり、特定の書記方法や言語の壁を超え、アクセシビリティの向上などによって、さらに多くの人々がこれまで以上の広がりを持った知識や情報へのアクセスがしやすくなったと感じています。 Webという新たな場所で、EPUB3.2を活用して、より多くの人々に、知識や情報を広げていく活動の一端を担える事を、KADOKAWAは誇りに感じています。</span>",
 			"attribution": "Shin MIZUSHIMA, KADOKAWA CORPORATION Executive Officer, Senior Vice President"
 		},
 		{
