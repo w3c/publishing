@@ -10,7 +10,7 @@ var quote_rotate = (function() {
 	$.getJSON("testimonials.json")
 	  .done(function(tdata) {
 			var quotes        = tdata.current;
-		 	var quoteindex    = 0;     // Current quote index
+		 	var quoteindex    = Math.floor(Math.random() * Math.floor(quotes.length));     // Current quote index
 		 	var fadetime      = 1200;  // Length of time to spend fading
 		 	var timerinterval = 13000; // How long to wait before changing the quote
 			var automatic     = true
