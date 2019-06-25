@@ -35,6 +35,10 @@
 		{
 			"quote" : "Benetech is proud to be a part of the evolution and advancement of the latest EPUB 3.2 specification.  Congratulations to Rachel Comerford and Dave Cramer for leading the charge and to all the EPUB3 Community Group members who helped make this a reality.  A special thanks to DAISY for updating EPUBCheck to validate this latest specification which is crucial for world wide adoption.",
 			"attribution": "Charles LaPierre, Technical Lead, DIAGRAM and Born Accessible, Benetech"
+		},
+		{
+			"quote": "Google salutes and congratulates the W3C EPUB Community Group for the success of its efforts to modernize and future-proof EPUB with the recent publication of the EPUB 3.2 specification. This project represents that first major advancement for EPUB since the merger of the IDPF into the W3C and lays the groundwork for a productive path forward. Play Books relies heavily on EPUB and epubcheck in our production workflow — the recent advancements with these standards and tools are a boon to the entire industry.",
+			"attribution": "Tom Turvey, Managing Director, Global Product Partnerships, News &amp; Publishing Products, Google"
 		}
 	],
 	"past": [
