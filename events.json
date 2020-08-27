@@ -1,6 +1,22 @@
 {
 	"events" : [
 		{
+			"event"		: "Publishing@W3C Community Webinar",
+			"place"		: "Online",
+			"dateStart"	: "2020-07-27",
+			"dateEnd"	: "2020-07-29",
+			"persons"   : "Cristina, Wendy, Tzviya, Avneesh, Daihei, Shinya, Mateus",
+			"href"		: "https://www.w3.org/2020/07/publ-webinar/"
+		},
+		{
+			"event"		: "Digital Publishing Summit Europe 2020",
+			"place"		: "Online Edition",
+			"dateStart"	: "2020-05-28",
+			"dateEnd"	: "2020-06-12",
+			"persons"   : "Ivan",
+			"href"		: "https://www.edrlab.org/events/digital-publishing-summit-2020/"
+		},
+		{
 			"event"		: "Digital Publishing Summit Europe 2019",
 			"place"		: "Paris, France",
 			"dateStart"	: "2019-06-25",
@@ -432,6 +448,13 @@
 	],
 
 	"presentations" : [
+		{
+			"event"		: "Digital Publishing Summit Europe 2020",
+			"place"		: "Online edition",
+			"presenter"	: "Liisa McCloy-Kelley and Daihei Shiohama",
+			"date"		: "2020-06-02",
+			"href"		: "https://cdn-api.swapcard.com/public/files/50775ed0ff7b4b378319003b9674a0a9.pdf"
+		},
 		{
 			"event"		: "Les 10 ans des Assises du livre numérique",
 			"place"		: "Paris, France",
