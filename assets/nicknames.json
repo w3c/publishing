@@ -50,7 +50,7 @@
     {
         "name": "Phil Barker",
         "nick": [
-            "Phil Barker"
+            "philbarker"
         ]
     },
     {
@@ -77,7 +77,7 @@
     {
         "name": "Courney Benett",
         "nick": [
-            "courneyb"
+            "courtneyb"
         ]
     },
     {
@@ -380,7 +380,9 @@
     },
     {
         "name": "Marianne Gulstad",
-        "nick": []
+        "nick": [
+            "marianne"
+        ]
     },
     {
         "nick": [
@@ -465,7 +467,9 @@
     },
     {
         "name": "Michalis Kalamaras",
-        "nick": []
+        "nick": [
+            "michalis"
+        ]
     },
     {
         "nick": [
