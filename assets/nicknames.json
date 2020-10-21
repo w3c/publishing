@@ -48,6 +48,12 @@
         "github": "mikebbaker"
     },
     {
+        "name": "Phil Barker",
+        "nick": [
+            "Phil Barker"
+        ]
+    },
+    {
         "nick": [
             "sofia"
         ],
@@ -67,6 +73,12 @@
         ],
         "name": "Graham Bell",
         "github": "graham-bell"
+    },
+    {
+        "name": "Courney Benett",
+        "nick": [
+            "courneyb"
+        ]
     },
     {
         "nick": [
@@ -337,6 +349,18 @@
         "github": "mattgarrish"
     },
     {
+        "name": "Damian Gibbs",
+        "nick": [
+            "damiang"
+        ]
+    },
+    {
+        "name": "Paul Gilius",
+        "nick": [
+            "paulgilius"
+        ]
+    },
+    {
         "nick": [
             "Michael_Goodman"
         ],
@@ -347,6 +371,16 @@
             "Jonathan_Greenberg"
         ],
         "name": "Jonathan Greenberg"
+    },
+    {
+        "name": "Alex Grover",
+        "nick": [
+            "alex_grover"
+        ]
+    },
+    {
+        "name": "Marianne Gulstad",
+        "nick": []
     },
     {
         "nick": [
@@ -430,6 +464,10 @@
         "github": "geoffjukes"
     },
     {
+        "name": "Michalis Kalamaras",
+        "nick": []
+    },
+    {
         "nick": [
             "junko_kamata",
             "jkamata"
@@ -478,6 +516,12 @@
             "michelle_kelly"
         ],
         "name": "Michelle Kelly"
+    },
+    {
+        "name": "Naomi Kennedy",
+        "nick": [
+            "naomi"
+        ]
     },
     {
         "nick": [
@@ -1023,6 +1067,12 @@
         "github": "BCWalters"
     },
     {
+        "name": "Jessica Waßmuth",
+        "nick": [
+            "jessica_w"
+        ]
+    },
+    {
         "nick": [
             "Daniel_Weck",
             "DanielWeck",
@@ -1034,6 +1084,10 @@
     {
         "nick": [],
         "name": "John Weise"
+    },
+    {
+        "name": "Alice Wershing",
+        "nick": []
     },
     {
         "nick": [
@@ -1102,7 +1156,8 @@
     },
     {
         "nick": [
-            "naomi"
+            "naomiy",
+            "yoshizawa"
         ],
         "name": "Naomi Yoshizawa (吉澤直美)"
     },
