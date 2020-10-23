@@ -22,6 +22,13 @@
         "github": "BorisAnthony"
     },
     {
+        "nick" : [
+            "Judy",
+            "jbrewer"
+        ],
+        "name": "Judy Brewer"
+    },
+    {
         "nick": [
             "christofer_auclair"
         ],
@@ -418,6 +425,12 @@
         "github": "CHayesNorton"
     },
     {
+        "nick" : [
+            "plh"
+        ],
+        "name": "Philippe le Hégaret"
+    },
+    {
         "nick": [
             "bernhard_heinser"
         ],
@@ -473,6 +486,13 @@
     },
     {
         "nick": [
+            "ken",
+            "circularken"
+        ],
+        "name" : "Ken Jones"
+    },
+    {
+        "nick": [
             "geoff_jukes",
             "geoffjukes",
             "geoff"
@@ -504,6 +524,7 @@
         "nick": [
             "Deborah_Kaplan",
             "dkaplan3",
+            "dkaplan31",
             "dkaplan",
             "deborah"
         ],
@@ -574,7 +595,8 @@
     {
         "nick": [
             "toshiaki-koike",
-            "toshiakikoike"
+            "toshiakikoike",
+            "toshiaki"
         ],
         "name": "Toshiaki Koike",
         "github": "toshiakikoike"
@@ -625,6 +647,12 @@
         ],
         "name": "Vladimir Levantovsky",
         "github": "vlevantovsky"
+    },
+    {
+        "nick": [
+            "daniella"
+        ],
+        "name" : "Daniella Levy-Pinto"
     },
     {
         "nick": [
@@ -716,7 +744,8 @@
     {
         "nick": [
             "juliette",
-            "juliette_mcshane"
+            "juliette_mcshane",
+            "jmcshane"
         ],
         "name": "Juliette McShane"
     },
@@ -1201,7 +1230,8 @@
     {
         "nick": [
             "naomiy",
-            "yoshizawa"
+            "yoshizawa",
+            "yonaomi"
         ],
         "name": "Naomi Yoshizawa (吉澤直美)"
     },
