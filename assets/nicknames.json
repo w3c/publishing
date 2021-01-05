@@ -85,7 +85,6 @@
         "github": "graham-bell"
     },
     {
-        "name": "Courney Benett",
         "nick": [
             "courtneyb"
         ],
@@ -121,7 +120,8 @@
         "nick": [
             "Bert"
         ],
-        "name": "Bert Bos"
+        "name": "Bert Bos",
+        "github": "bert-github"
     },
     {
         "nick": [
@@ -216,7 +216,8 @@
         "nick": [
             "JuanCorona"
         ],
-        "name": "Juan Corona"
+        "name": "Juan Corona",
+        "github": "jccr"
     },
     {
         "nick": [
@@ -232,7 +233,8 @@
             "dave"
         ],
         "name": "Dave Cramer",
-        "github": "dauwhe"
+        "github": "dauwhe",
+        "role": "chair"
     },
     {
         "nick": [
@@ -292,7 +294,8 @@
             "brady_duga",
             "brady"
         ],
-        "name": "Brady Duga"
+        "name": "Brady Duga",
+        "github": "bduga"
     },
     {
         "nick": [
@@ -429,7 +432,8 @@
         "nick" : [
             "plh"
         ],
-        "name": "Philippe le Hégaret"
+        "name": "Philippe le Hégaret",
+        "github": "plhegar"
     },
     {
         "nick": [
@@ -796,7 +800,8 @@
             "karen",
             "KarenMyers"
         ],
-        "name": "Karen Myers"
+        "name": "Karen Myers",
+        "github": "karenmyers"
     },
     {
         "nick": [
@@ -889,7 +894,8 @@
             "wendyreid"
         ],
         "name": "Wendy Reid",
-        "github": "wareid"
+        "github": "wareid",
+        "role": "chair"
     },
     {
         "nick": [
@@ -914,19 +920,17 @@
     },
     {
         "nick": [
-            "Leonard",
-            "leonardr"
-        ],
-        "name": "Leonard Rosenthol",
-        "github": "lrosenthol"
-    },
-    {
-        "nick": [
             "NickRuffilo",
             "nick1",
             "nick"
         ],
         "name": "Nick Ruffilo"
+    },
+    {
+        "nick": [
+            "sakakibara"
+        ],
+        "name": "Hiroshi Sakakibara"
     },
     {
         "nick": [
@@ -1078,21 +1082,13 @@
             "ShinyaTakami",
             "takami",
             "ShinyaTa",
-            "Takami-san"
-        ],
-        "name": "Shinya Takami"
-    },
-    {
-        "nick": [
-            "shie",
-            "ShinyaTakami",
-            "takami",
-            "ShinyaTa",
             "Takami-san",
             "shinya",
             "shiestyle"
         ],
-        "name": "Shinya Takami (高見真也)"
+        "name": "Shinya Takami (高見真也)",
+        "github": "shiestyle",
+        "role" : "chair"
     },
     {
         "nick": [
