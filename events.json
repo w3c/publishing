@@ -1,6 +1,14 @@
 {
 	"events" : [
 		{
+			"event"		: "Digital Publishing Summit",
+			"place"		: "Madrid, Spain",
+			"dateStart"	: "2022-06-03",
+			"dateEnd"	: "2022-06-03",
+			"persons"   : "Ivan, Laurent",
+			"href"		: "https://www.edrlab.org/events/digital-publishing-summit-2022/"
+		},
+		{
 			"event"		: "Publishing@W3C Community Webinar",
 			"place"		: "Online",
 			"dateStart"	: "2020-07-27",
@@ -448,6 +456,20 @@
 	],
 
 	"presentations" : [
+		{
+			"event"		: "Digital Publishing Summit",
+			"place"		: "Madrid, Spain",
+			"presenter"	: "Ivan Herman",
+			"date"		: "2022-06-03",
+			"href"		: "https://www.w3.org/2022/Talks/PublishingSummit-IH/Presentation.pdf"
+		},
+		{
+			"event"		: "Tech Forum 2022",
+			"place"		: "Online edition",
+			"presenter"	: "Wendy Reed and Dave Cramer",
+			"date"		: "2022-04-28",
+			"href"		: "https://www.slideshare.net/booknetcanada?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview"
+		},
 		{
 			"event"		: "Digital Publishing Summit Europe 2020",
 			"place"		: "Online edition",
