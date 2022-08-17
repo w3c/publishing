@@ -1,6 +1,14 @@
 {
 	"events" : [
 		{
+			"event"		: "Digital Publishing Salon",
+			"place"		: "Vancouver, Canada; Hybrid meeting",
+			"dateStart" : "2022-09-13",
+			"dateEnd"   : "2022-09-13",
+			"persons"   : "Tzviya, Wendy, Karen, Ralph, Ivan, Bill",
+			"href"      : "https://www.w3.org/2022/09/digpubsalon.html"
+		},
+		{
 			"event"		: "Digital Publishing Summit",
 			"place"		: "Madrid, Spain",
 			"dateStart"	: "2022-06-03",
